@@ -1,6 +1,6 @@
 set nocompatible
 syntax on
-set guifont=Apple\ Braille:h18
+set guifont=Courier\ New:h18
 set number
 set incsearch
 set hlsearch
